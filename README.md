@@ -6,7 +6,7 @@ Automatically render XML reports in your browser simly by drag-and-drop action. 
 [![Ranorex Selocity Chrome Extension Intro Video](./video-overlay.png)](https://www.youtube.com/watch?v=dHeS7MW1T4U)
 
 
-[![Download the free Ranorex Extension for Google Chrome](./chrome.png)](https://chrome.google.com/webstore/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Download the free Ranorex Extension for Mozzila Firefox](./firefox.png)](https://addons.mozilla.org/en-US/firefox/)
+[![Download the free Ranorex Extension for Google Chrome](./chrome.png)](https://chrome.google.com/webstore/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Download the free Ranorex Extension for Mozzila Firefox](./firefox.png)](https://addons.mozilla.org/en-US/firefox/)
  
 
 ## What's in this repo?
