@@ -3,7 +3,7 @@
 Description:
 Automatically render XML reports in your browser simly by drag-and-drop action. With our J-unit reporter, you are getting a super-nice rendered test report in your browser. Those not so nice looking XML’s are transformed and rendered into fancy HTML reports that you can easily view in the browser. All you need to do is to load the report file and be amazed
 
-[![Ranorex Selocity Chrome Extension Intro Video](./video-overlay.png)](https://www.youtube.com/watch?v=dHeS7MW1T4U)
+[![Ranorex Selocity Chrome Extension Intro Video](./videoOverlay.png)](https://www.youtube.com/watch?v=dHeS7MW1T4U)
 
 
 [![Download the free Ranorex Extension for Google Chrome](./chrome.png)](https://chrome.google.com/webstore/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Download the free Ranorex Extension for Mozzila Firefox](./firefox.png)](https://addons.mozilla.org/en-US/firefox/)
