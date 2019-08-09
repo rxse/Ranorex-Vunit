@@ -7,7 +7,7 @@ Ranorex Vunit is a free extension that allows you to turn plain JUnit XML test r
 [![Ranorex Selocity Chrome Extension Intro Video](./videoOverlay.png)](https://www.youtube.com/watch?v=dHeS7MW1T4U)
 
 
-[![Download the free Ranorex Extension for Google Chrome](./chrome.png)](https://chrome.google.com/webstore/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Download the free Ranorex Extension for Mozzila Firefox](./firefox.png)](https://addons.mozilla.org/en-US/firefox/)
+[![Download the free Ranorex Extension for Google Chrome](./chrome.png)](https://chrome.google.com/webstore/) 
  
 
 ## What's in this repo?
@@ -17,7 +17,7 @@ Use this repository to drop your feedback, feature requests, or issues you may h
 
 ## How do I get this cool Chrome Extension?
 
-You can install the extension from the [Google Chrome Web Store](https://chrome.google.com/webstore/) or from the [Mozilla Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/).
+You can download install this free extension from the [Google Chrome Web Store](https://chrome.google.com/webstore/).
 
 ## Where can I get more information?
 
