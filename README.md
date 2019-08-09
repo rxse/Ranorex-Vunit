@@ -21,4 +21,4 @@ You can install the extension from the [Google Chrome Web Store](https://chrome.
 
 ## Where can I get more information?
 
-Visit [Our official Diccourse](https://discourse.webtestit.com/t/rx-vunit-report-viewer/1386) or our [Medium](https://medium.com/ranorex-webtestit) space to learn about the features and benefits of Ranorex VUnit Report Viewer, and review our updates in the [Changelog](CHANGELOG.md).
+Visit [Our official Diccourse](https://discourse.webtestit.com/t/rx-vunit-report-viewer/1386) or our [Medium](https://medium.com/ranorex-webtestit) space to learn about the features and benefits of Ranorex VUnit Report Viewer, and review our updates in the [Changelog](./changelog.md).
