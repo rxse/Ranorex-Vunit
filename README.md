@@ -1,7 +1,8 @@
-# Ranorex VUnit Report Viewer - Free Chrome Extension
+# Ranorex Vunit - turn plain JUnit XML's into visually pleasing reports
 
-Description:
-Ranorex Vunit is a free extension that allows you to turn plain JUnit XML test reports into visually pleasing reports that provide all the necessary details about your test cases. With Ranorex Vunit extension installed, simply drag and drop your XML test reports generated in Ranorex Webtestit and view them directly in your browser.
+Ranorex Vunit is a free extension that allows you to turn plain JUnit XML test reports into visually pleasing reports that provide all the necessary details about your test cases. With Ranorex Vunit extension installed, simply drag and drop your XML test reports generated in Ranorex Webtestit or any other testing IDE and view them directly in your browser.
+
+
 
 [![Ranorex Selocity Chrome Extension Intro Video](./videoOverlay.png)](https://www.youtube.com/watch?v=dHeS7MW1T4U)
 
