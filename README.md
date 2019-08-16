@@ -4,7 +4,7 @@ Ranorex Vunit is a free extension that allows you to turn plain JUnit XML test r
 
 
 
-[![Ranorex Selocity Chrome Extension Intro Video](./videoOverlay.png)](https://www.youtube.com/watch?v=dHeS7MW1T4U)
+[![Ranorex Selocity Chrome Extension Intro Video](./videoOverlay.png)](https://www.youtube.com/watch?v=aU21YQr5BR8&feature=youtu.be)
 
 
 [![Download the free Ranorex Extension for Google Chrome](./chrome.png)](https://chrome.google.com/webstore/) 
